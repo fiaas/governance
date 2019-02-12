@@ -34,7 +34,8 @@ Anyone can request a change in the process. Such changes must be described in a 
 the same way as a technical feature.
 
 ### Code of conduct
-TODO: Add link to code of conduct
+The project needs a code of conduct that all project contributors must adhere to. See the [code of conduct
+document](code_of_conduct.md) for details of the code of conduct.
 
 ### License
 All software shall be licensed under the Apache 2.0 license.
