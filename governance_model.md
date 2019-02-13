@@ -25,7 +25,7 @@ As a starting point there should be a well-defined maintainer or ideally a maint
 responsible for:
 
 * Answering any pull requests and new issues in a timely manner.
-* Act as gatekeepers for new features; decide whether it makes sense to support such and such feature in FIAAS.
+* Act as gatekeepers for new features; decide whether it makes sense to have that feature in FIAAS or not
 * Maintain a current roadmap for the features they plan to work on.
 * Keep 3rd party libraries up to date (especially with regards to security issues).
 
