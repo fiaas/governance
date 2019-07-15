@@ -17,7 +17,7 @@ Organization owners naturally have full access to every repository as well as to
 
 This team should contain the people in the [maintainer team](/governance_model.md#fiaas-maintainer-team).
 
-# Contributors
+## Contributors
 
 This team grants write access to (almost) every repository. Since branch protection for the master branch is enabled, this effectively means that members can create, manage and push to any other branches.
 
