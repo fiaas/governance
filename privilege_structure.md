@@ -15,7 +15,7 @@ Organization owners naturally have full access to every repository as well as to
 
 ## Maintainers
 
-This team should contain the people in the [maintainer team](/governance_model.md#fiaas-maintainer-team).
+This team should contain the people in the [maintainer team](/governance_model.md#fiaas-maintainer-team), and grants admin access to all repositories.
 
 ## Contributors
 
