@@ -5,9 +5,11 @@
 - Add Github user to `maintainers` team
 - Promote Github user to admin level in Semaphore CI
 - Add user's public GPG key to [ops](https://github.com/fiaas/ops) repository; see the [README for detailed instructions](https://github.com/fiaas/ops#adding-a-new-user).
+- Add email address to the fiaas maintainer mailing list (here: https://groups.google.com/forum/#!managemembers/fiaas/members)
 
 ## Offboarding from the FIAAS maintainer team
 
 - Remove Github user from `maintainers` team
 - Demote Github user from admin level in Semaphore CI
 - Remove user's public GPG key from [ops](https://github.com/fiaas/ops) repository; see the [README for detailed instructions](https://github.com/fiaas/ops#removing-a-user)
+- Remove email address from the fiaas maintainer mailing list (here: https://groups.google.com/forum/#!managemembers/fiaas/members)
