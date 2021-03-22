@@ -6,7 +6,7 @@
 - Set Github user as "maintainer" role in `maintainers` team https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/giving-team-maintainer-permissions-to-an-organization-member
 - Set Github user as "owner" of the fiaas Github organization https://github.com/orgs/fiaas/people
 - Promote Github user to admin level in Semaphore CI https://fiaas-svc.semaphoreci.com/people
-- Add DockerHub user to `owners` team in `fiaas` organization: https://hub.docker.com/orgs/fiaas/teams/owners
+- ~~Add DockerHub user to `owners` team in `fiaas` organization: https://hub.docker.com/orgs/fiaas/teams/owners~~ **Note:** This is temporarily not possible.
 - Add user's public GPG key to [ops](https://github.com/fiaas/ops) repository; see the [README for detailed instructions](https://github.com/fiaas/ops#adding-a-new-user).
 - Add email address to the fiaas maintainer mailing list (here: https://groups.google.com/forum/#!managemembers/fiaas/members)
 
