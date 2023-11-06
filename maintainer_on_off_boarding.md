@@ -9,6 +9,7 @@
 - Add DockerHub user to `owners` team in `fiaas` organization: https://hub.docker.com/orgs/fiaas/teams/owners
 - Add user's public GPG key to [ops](https://github.com/fiaas/ops) repository; see the [README for detailed instructions](https://github.com/fiaas/ops#adding-a-new-user).
 - Add email address to the fiaas maintainer mailing list (here: https://groups.google.com/forum/#!managemembers/fiaas/members)
+- Add readthedocs.org user to fiaas/k8s docs project: https://readthedocs.org/dashboard/k8s/users
 
 ## Offboarding from the FIAAS maintainer team
 
@@ -18,3 +19,4 @@
 - Remove DockerHub user to `owners` team in `fiaas` organization: https://hub.docker.com/orgs/fiaas/teams/owners
 - Remove user's public GPG key from [ops](https://github.com/fiaas/ops) repository; see the [README for detailed instructions](https://github.com/fiaas/ops#removing-a-user)
 - Remove email address from the fiaas maintainer mailing list (here: https://groups.google.com/forum/#!managemembers/fiaas/members)
+- Remove readthedocs.org user from fiaas/k8s docs project: https://readthedocs.org/dashboard/k8s/users
